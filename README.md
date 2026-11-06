@@ -10,7 +10,9 @@ My main languages are C#, Java, C++, and SQL. My favorite tools are Git, and goo
 
 My favorite current project is [Collectathon](https://github.com/auberonedu/collectathon "Where I worked with a partner to experiment with creating a working GBA game!")
 
-You can reach me via my LinkedIn.
+My second favorite project is [Trades Job Board](https://github.com/CMBCoding/Trades-Job-Board "Where my team and I are working on a website for a client!")
+
+You can reach me via my [LinkedIn](https://www.linkedin.com/in/campbellrex/).
 
 Fun Facts:
 - I love cats
